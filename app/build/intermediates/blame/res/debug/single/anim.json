@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_delete.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_delete.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_menu_dismiss_above.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_menu_dismiss_above.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\main_menu_dismiss.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\main_menu_dismiss.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_move_right.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_move_right.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_shake.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_shake.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_shake_cycle.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_shake_cycle.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_menu_dismiss_below.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_menu_dismiss_below.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_menu_show_below.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_menu_show_below.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_move_left.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_move_left.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_menu_show_above.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\item_menu_show_above.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\anim\\main_menu_show.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\anim\\main_menu_show.xml"
+    }
+]

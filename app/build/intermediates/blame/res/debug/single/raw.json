@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\raw\\applause_normal.mp3",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\raw\\applause_normal.mp3"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\raw\\applause_special.mp3",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\raw\\applause_special.mp3"
+    }
+]

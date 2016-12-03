@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_main_menu_left_padding">50dip</dimen>
+</resources>

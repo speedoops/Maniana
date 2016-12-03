@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message_small_border.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\message_small_border.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_lock.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_lock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\working_dialog_background.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\working_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_toolbar_background.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\widget_toolbar_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_highlight_red.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_highlight_red.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_set_selector_background.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\icon_set_selector_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_menu_arrow_down.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\popup_menu_arrow_down.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_delete.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_delete.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_menu_background.9.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\popup_menu_background.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_holder.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\place_holder.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_icon_label_border.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\widget_icon_label_border.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_menu_arrow_up.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\popup_menu_arrow_up.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_colors_drag_background.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_colors_drag_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_highlight_yellow.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_highlight_yellow.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_edit.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_edit.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_unlock.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_unlock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_todo.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_todo.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_menu_done.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_menu_done.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_press_background.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\list_selector_press_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_highlight_green.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_highlight_green.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_menu_entry_selected.9.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\popup_menu_entry_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_highlight_blue.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable\\item_highlight_blue.png"
+    }
+]

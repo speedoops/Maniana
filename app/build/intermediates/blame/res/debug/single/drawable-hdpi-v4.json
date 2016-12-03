@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_bg_right.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_bg_right.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_bg_left.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_bg_left.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_theme1_preview.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_theme1_preview.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_theme2_preview.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_theme2_preview.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_theme3_preview.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_theme3_preview.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_theme4_preview.jpg",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-hdpi\\page_theme4_preview.jpg"
+    }
+]

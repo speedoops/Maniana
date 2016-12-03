@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\values-large\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 59,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    }
+]

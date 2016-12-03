@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_4.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_4.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_2.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_2.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_5.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_5.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_1.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_1.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_3.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_3.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_list_info_size_6.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_list_info_size_6.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_icon_info.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\xml\\widget_icon_info.xml"
+    }
+]

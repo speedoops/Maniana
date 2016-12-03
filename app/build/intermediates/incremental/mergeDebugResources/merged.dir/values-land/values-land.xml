@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_widget_label_right_margin">11dp</dimen>
+    <dimen name="icon_widget_label_top_margin">0dp</dimen>
+    <style name="ListWidgetLandscapeBitmap">
+        <item name="android:visibility">visible</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+    <style name="ListWidgetPortraitBitmap">
+        <item name="android:visibility">gone</item>
+        <item name="android:padding">0dip</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+</resources>

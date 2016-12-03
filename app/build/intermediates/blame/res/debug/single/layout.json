@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\page_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_color_picker.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\dialog_color_picker.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\backup_restore_dialog_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\backup_restore_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu_entry.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\main_menu_entry.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_list_template_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\widget_list_template_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_small_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\message_small_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_full_screen_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\message_full_screen_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_list_template_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\widget_list_template_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_icon_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\widget_icon_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu_entry.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\item_menu_entry.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\icon_set_preference_row_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\icon_set_preference_row_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_list_dialog_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\voice_list_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\debug_info_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\debug_info_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumbnail_selector_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\thumbnail_selector_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_colors_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\item_colors_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\working_dialog_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\working_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_list_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\widget_list_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_colors_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\item_colors_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu_separator.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\item_menu_separator.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thumbnail_selector_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\thumbnail_selector_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\editor_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\editor_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_item_layout.xml",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\layout\\page_item_layout.xml"
+    }
+]

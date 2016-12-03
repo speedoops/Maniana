@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_graphics_source.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_graphics_source.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\Maniana\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_icon.png",
+        "source": "D:\\Android\\StudioProjects\\Maniana\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    }
+]
